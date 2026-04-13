@@ -1,0 +1,20 @@
+Python
+Java
+C++
+Machine Learning
+Data Analysis
+SQL
+HTML
+CSS
+JavaScript
+React
+Node.js
+Flask
+Django
+Git
+Docker
+AWS
+Azure
+Communication
+Problem Solving
+Leadership
