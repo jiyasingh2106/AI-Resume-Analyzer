@@ -18,7 +18,7 @@ An AI-powered Resume Analyzer web application built using Streamlit and Python. 
 - Scikit-learn
 
 ## Live Demo
-[Open App](https://personal-finance-tracker-d8aes37reh4wnmmccsa3oj.streamlit.app/)
+[Open App](https://ai-resume-analyzer-a56qyatm4rmqmfsaxhyhcn.streamlit.app/)
 
 ## Author
 Jiya Singh
